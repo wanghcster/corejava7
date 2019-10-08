@@ -14,6 +14,7 @@ import javax.swing.*;
 
 public class Bookmark extends JApplet 
 {  
+   // init
    public void init()
    {  
       Box box = Box.createVerticalBox();
